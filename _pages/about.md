@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+我现在是西交利物浦大学的一名博士生
+我的研究专注于表观转录组学分析和深度学习模型(大语言模型)在RNA修饰中的应用
 I am currently a PhD student majoring in Bioinformatics/computational biology at Xi'an Jiaotong Liverpool University.
 
 My primary research focuses on epi-transcriptome analysis and deep learning model development on RNA epigenetics.
